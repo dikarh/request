@@ -1,0 +1,27 @@
+{"resultado":{"data":{
+"job":{
+	"antiquityYear" : 5,
+	"antiquityMonth" : 2,
+   "monthlyIncome": 20000,
+   "idTypeContract" : 2,
+   "idPosition" : 2,
+    "idCompany" : 2,
+    "idPerson" : 2,
+    "phone" : "5515762767"
+},
+
+"address" : {
+		"id" : 2,
+		"street" : "Monera",
+	"outsideNumber" : "32",
+		"insideNumber" : "24 L",
+		"referenceStreet" : "Pipila",
+		"idColony" : 1232,
+		"residenceTime" : 2,
+		"idPerson" : 2,
+		"idAddressType" : 1,
+		"idOffice" : 1}
+}, 
+ 	"codeHttpStatus" : 200}
+  }
+  }
